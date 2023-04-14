@@ -1,1 +1,1 @@
-How to contribute to open source projects
+# How to contribute to open source projects
